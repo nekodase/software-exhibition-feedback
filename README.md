@@ -105,7 +105,7 @@
 
 | Date | Feedback |
 |------|:---------|
-| 0721 | - "카메라로 찍으면" - OCR(Optical Character Recognition) -> CNN만으로? +영상처리 <br> - AI-enhanced OCR: 시퀀스 데이터. CRNN, transformer, ... 구현이 쉽지 않을 수 있음 |
+| 0721 | - "카메라로 찍으면" - OCR(Optical Character Recognition) -> 영상 전처리 <br> - Text detection + recognition: separate model <br> - CNN + recurrence: because this is usually "text" - CRNN |
 
 ---
 
