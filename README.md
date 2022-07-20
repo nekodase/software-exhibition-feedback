@@ -51,3 +51,7 @@
 ---
 
 ## [20225161 양진은 [커뮤니티 데이터 분석]](https://github.com/SinJi7/project1)
+
+- 기래요
+- beautifulsoup는 뭐하는 모듈임
+- (시간이 남으면) 다른 모델도 한 번 츄라이해보셈. GAN/Transformer-based도 되지 않나...
