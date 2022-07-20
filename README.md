@@ -81,7 +81,7 @@
 
 | Date | Feedback |
 |------|:---------|
-| 0721 | - CNN-classification. <br> - this potentially needs MASSIVE DATA, how are you going to do this? <br> - how are you going to define *race*? <br> - 구체적인 목표 설정이 필요 + 선행연구 찾아볼 것 |
+| 0721 | - this potentially needs MASSIVE DATA, how are you going to do this? <br> - how are you going to define *race*? <br> - 구체적인 목표 설정이 필요 + [선행연구](https://www.researchgate.net/publication/358622455_Intelligent_deep_learning_based_ethnicity_recognition_and_classification_using_facial_images) 찾아볼 것 |
 
 ---
 
