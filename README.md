@@ -57,7 +57,7 @@
 
 | Date | Feedback |
 |------|:---------|
-| 0721 | - different models, 단순성능 + 바로 갖다 쓸 수 있는 것: ResNet, VGG16 <br> - "mask detection": mask object detection vs facial feature detection comparison |
+| 0721 | - "mask detection": mask object detection vs facial feature detection comparison <br> - 선행연구 있음. Resnet 같은 existing architecture 빌려쓰는 것도 괜찮은듯 |
 
 ---
 
