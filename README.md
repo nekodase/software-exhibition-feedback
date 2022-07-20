@@ -2,11 +2,15 @@
 - 포함하면 좋은 것: 무엇을 배워야 하는가, 언제까지는 무엇을 하겠다
 - 진행 상황이 있으시면 깃헙에 업로드하시라구요
 
+---
+
 ## [20185306 허홍준 [Python, OpenAP를 활용한 얼굴 상 구별]](https://github.com/HongJuneHu/Face_Distinction)
 
 - 얼굴을 골라내는 것: CNN, vision transformer
 - "얼굴 상"에 대한 정의
 - "모델"? "프로그램"?
+
+---
 
 ## [20195107 고은영 [재택치료를 위한 웹 사이트]](https://github.com/azzbc7819/2022SWexhibition)
 
@@ -15,9 +19,13 @@
 - 환자 정보에 대한 security?
   - 의료 쪽 정보, 특히 진료 DB를 구축하겠다고 하면 굉장히 중요한 부분임.
 
+---
+
 ## [20195198 오승훈 [강화 학습을 통한 Tic Tac Toe AI 만들기]](https://github.com/owinhun/2022_Caerang)
 
 - 학습용 버전을 따로 만들면 좋을 것 같음
+
+---
 
 ## [20196629 이강혁 [Python, OpenAP를 활용한 주식데이터 예측 프로그램]](https://github.com/KH4901/project-index)
 
@@ -30,6 +38,8 @@
   - 어떤 현상임? 어떻게 정의함?
   - 변수들은 그냥 비슷하다고 퉁치는 거임 그럼?
 
+---
+
 ## [20215250 주원교 20215123 이연우 20215210 김수연 [표정인식 기술을 이용한 이모티콘 매칭]](https://github.com/Kimsuyeon0809/Emotion-Detection)
 
 - 진행 상황이 있으면 깃헙에 업로드하셈 그걸 봐야 피드백을 하지
@@ -37,5 +47,7 @@
   - apple memoji
   - facial feature orientation detection, opencv
 - 한 번 다양한 각도에서 찍은 얼굴에도 적용이 되도록 해봄이?
+
+---
 
 ## [20225161 양진은 [커뮤니티 데이터 분석]](https://github.com/SinJi7/project1)
