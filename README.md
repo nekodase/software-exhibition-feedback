@@ -50,3 +50,67 @@
 | Date | Feedback |
 |------|:---------|
 | 0721 | - 기래요 <br> - beautifulsoup는 뭐하는 모듈임 <br> - (시간이 남으면) 다른 모델도 한 번 츄라이해보셈. GAN/Transformer-based도 되지 않나... |
+
+---
+
+## [20185101 강민제 20225224 이정민 실시간 마스크 착용여부 판별기 개발](https://github.com/changmmml/22_sw_exhibition)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - different models, 단순성능 + 바로 갖다 쓸 수 있는 것: ResNet, VGG16 <br> - "mask detection": mask object detection vs facial feature detection comparison |
+
+---
+
+## [20215167 백민환 Python을 이용한 약 추천 시스템](https://github.com/bmh2350/2022-Tensor-Summer-Workshop)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - 이건 파이썬일 필요도 없으리라고 생각이 됨 <br> - 일단 "약 추천" 자체가 (상비약 제외) 상당히 위험한 아이디어 <br> - 방향성을 좀 틀 필요가 있음.  |
+
+---
+
+## [20195178 서영재 20205209 유수경 Wifi, Hotspots을 사용하는 안드로이드 기반 디바이스 해킹](https://github.com/ssyyjj1012/Hacking-Android-based-devices-using-Wi-Fi-and-hotspots)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - 네트워크를 잘 몰라서 피드백을 못 드리겠음 <br> - 실현 가능한 거임?? 핫스팟/와이파이 보안이 되어있다고 가정할 때 |
+
+---
+
+## [20185118 김우정 20185164 전진완 아시아 인종의 국적 분류기](https://github.com/rladnwjdsla/2022_Tensor_Workshop)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - CNN-classification. <br> - this potentially needs MASSIVE DATA, how are you going to do this? <br> - how are you going to define *race*? <br> - 구체적인 목표 설정이 필요 + 선행연구 찾아볼 것 |
+
+---
+
+## [20225217 이신우 원숭이두창 데이터 분석](https://github.com/steven8602/MonkeyPox-Project)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - motif는 좋음. 하지만 데이터를 어떻게 모을지, 어떤 데이터를 분석할지, 어떤 결론을 내리고 싶은지에 대한 고찰이 더 필요해보임 |
+
+---
+
+## [20215129 김용수 한 줄 일기로 알아보는 감정 일지](https://github.com/Kim-Yong-Soo/2022_Caerang_Exhibition)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - 주제 좋음 <br> - 용도에 적확하게 모델을 트레이닝하기 위한 데이터를 가공 <br> - 안드로이드 개발 시간 내에? |
+
+---
+
+## [20205218 이다해 영어 메뉴판 기계번역](https://github.com/dlekgo79/CAERANG)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - "카메라로 찍으면" - OCR(Optical Character Recognition) -> CNN만으로? +영상처리 <br> - AI-enhanced OCR: 시퀀스 데이터. CRNN, transformer, ... 구현이 쉽지 않을 수 있음 |
+
+---
+
+## [20195116 김규민 인바디 빅데이터 기반 식단 및 운동 추천 서비스](https://github.com/kyumin-99/WWH)
+
+| Date | Feedback |
+|------|:---------|
+| 0721 | - N/A |
