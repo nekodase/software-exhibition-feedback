@@ -53,7 +53,7 @@
 
 ---
 
-## [20185101 강민제 20225224 이정민 실시간 마스크 착용여부 판별기 개발](https://github.com/changmmml/22_sw_exhibition)
+## [20185101 강민제 20225224 이정민 [실시간 마스크 착용여부 판별기 개발]](https://github.com/changmmml/22_sw_exhibition)
 
 | Date | Feedback |
 |------|:---------|
@@ -61,7 +61,7 @@
 
 ---
 
-## [20215167 백민환 Python을 이용한 약 추천 시스템](https://github.com/bmh2350/2022-Tensor-Summer-Workshop)
+## [20215167 백민환 [Python을 이용한 약 추천 시스템]](https://github.com/bmh2350/2022-Tensor-Summer-Workshop)
 
 | Date | Feedback |
 |------|:---------|
@@ -69,7 +69,7 @@
 
 ---
 
-## [20195178 서영재 20205209 유수경 Wifi, Hotspots을 사용하는 안드로이드 기반 디바이스 해킹](https://github.com/ssyyjj1012/Hacking-Android-based-devices-using-Wi-Fi-and-hotspots)
+## [20195178 서영재 20205209 유수경 [Wifi, Hotspots을 사용하는 안드로이드 기반 디바이스 해킹]](https://github.com/ssyyjj1012/Hacking-Android-based-devices-using-Wi-Fi-and-hotspots)
 
 | Date | Feedback |
 |------|:---------|
@@ -77,7 +77,7 @@
 
 ---
 
-## [20185118 김우정 20185164 전진완 아시아 인종의 국적 분류기](https://github.com/rladnwjdsla/2022_Tensor_Workshop)
+## [20185118 김우정 20185164 전진완 [아시아 인종의 국적 분류기]](https://github.com/rladnwjdsla/2022_Tensor_Workshop)
 
 | Date | Feedback |
 |------|:---------|
@@ -85,7 +85,7 @@
 
 ---
 
-## [20225217 이신우 원숭이두창 데이터 분석](https://github.com/steven8602/MonkeyPox-Project)
+## [20225217 이신우 [원숭이두창 데이터 분석]](https://github.com/steven8602/MonkeyPox-Project)
 
 | Date | Feedback |
 |------|:---------|
@@ -93,7 +93,7 @@
 
 ---
 
-## [20215129 김용수 한 줄 일기로 알아보는 감정 일지](https://github.com/Kim-Yong-Soo/2022_Caerang_Exhibition)
+## [20215129 김용수 [한 줄 일기로 알아보는 감정 일지]](https://github.com/Kim-Yong-Soo/2022_Caerang_Exhibition)
 
 | Date | Feedback |
 |------|:---------|
@@ -101,7 +101,7 @@
 
 ---
 
-## [20205218 이다해 영어 메뉴판 기계번역](https://github.com/dlekgo79/CAERANG)
+## [20205218 이다해 [영어 메뉴판 기계번역]](https://github.com/dlekgo79/CAERANG)
 
 | Date | Feedback |
 |------|:---------|
@@ -109,7 +109,7 @@
 
 ---
 
-## [20195116 김규민 인바디 빅데이터 기반 식단 및 운동 추천 서비스](https://github.com/kyumin-99/WWH)
+## [20195116 김규민 인바디 [빅데이터 기반 식단 및 운동 추천 서비스]](https://github.com/kyumin-99/WWH)
 
 | Date | Feedback |
 |------|:---------|
