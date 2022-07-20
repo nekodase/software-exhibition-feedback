@@ -6,13 +6,18 @@
 
 ## [20185306 허홍준 [Python, OpenAP를 활용한 얼굴 상 구별]](https://github.com/HongJuneHu/Face_Distinction)
 
-| 0721 | - 얼굴을 골라내는 것: CNN, vision transformer <br> - "얼굴 상"에 대한 정의 <br> - "모델"? "프로그램"? |
+- 얼굴을 골라내는 것: CNN, vision transformer
+- "얼굴 상"에 대한 정의
+- "모델"? "프로그램"?
 
 ---
 
 ## [20195107 고은영 [재택치료를 위한 웹 사이트]](https://github.com/azzbc7819/2022SWexhibition)
 
-| 0721 | - 머?신 러?닝 <br> - 캡스톤이라 못 건드리겠네 <br> - 환자 정보에 대한 security? <br>   - 의료 쪽 정보, 특히 진료 DB를 구축하겠다고 하면 굉장히 중요한 부분임. |
+- 머?신 러?닝
+- 캡스톤이라 못 건드리겠네
+- 환자 정보에 대한 security?
+  - 의료 쪽 정보, 특히 진료 DB를 구축하겠다고 하면 굉장히 중요한 부분임.
 
 ---
 
