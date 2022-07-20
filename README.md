@@ -57,7 +57,7 @@
 
 | Date | Feedback |
 |------|:---------|
-| 0721 | - "mask detection": mask object detection vs facial feature detection comparison <br> - 선행연구 있음. Resnet 같은 existing architecture 빌려쓰는 것도 괜찮은듯 <br> - (complication을 따지자면) 마스크가 얼굴을 어떻게 덮고 있느냐를 검증할 수 있어야 함: detection of obstructed facial feature |
+| 0721 | - "mask detection": mask object detection vs facial feature detection comparison <br> - [선행연구](https://www.researchgate.net/publication/350991629_Masked_Face_Recognition_using_ResNet-50) 있음. Resnet 같은 existing architecture 빌려쓰는 것도 괜찮은듯 <br> - (complication을 따지자면) 마스크가 얼굴을 어떻게 덮고 있느냐를 검증할 수 있어야 함: detection of obstructed facial feature |
 
 ---
 
